@@ -1,4 +1,4 @@
-##Calculadora em React
+<h1>Calculadora em React</h1>
 
 
 Olá a todos! Gostaria de compartilhar um emocionante projeto de calculadora desenvolvido em React, criado para oferecer uma experiência de cálculo interativa e eficiente. Esta calculadora é perfeita para quem busca uma ferramenta de cálculo simples e prática, enquanto também serve como um ótimo exemplo de aplicação React para o GitHub.
