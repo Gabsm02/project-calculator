@@ -1,70 +1,41 @@
-# Getting Started with Create React App
+Olá a todos! Gostaria de compartilhar um emocionante projeto de calculadora desenvolvido em React, criado para oferecer uma experiência de cálculo interativa e eficiente. Esta calculadora é perfeita para quem busca uma ferramenta de cálculo simples e prática, enquanto também serve como um ótimo exemplo de aplicação React para o GitHub.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Visão Geral:
 
-## Available Scripts
+A Calculadora React é uma aplicação web que permite aos usuários realizar cálculos matemáticos básicos em uma interface agradável e intuitiva. Ela oferece uma variedade de recursos úteis, como formatação de números com vírgulas, cálculo de porcentagem e alteração de sinal. Além disso, a calculadora inclui operações de adição, subtração, multiplicação e divisão, juntamente com um botão "⇦" para apagar dígitos individualmente e um botão "C" para limpar todos os valores.
 
-In the project directory, you can run:
+Funcionalidades Principais:
 
-### `npm start`
+Operações Matemáticas: Realize cálculos básicos de adição, subtração, multiplicação e divisão, com resultados exibidos de maneira clara e acessível.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Formatação de Números: A formatação de números é aprimorada por meio de vírgulas, tornando os números mais legíveis e fáceis de acompanhar.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Porcentagem e Sinal: Os botões "%" e "+/-" permitem calcular porcentagens e alternar o sinal de um número, fornecendo funcionalidades avançadas.
 
-### `npm test`
+Exibição de Expressões: A calculadora exibe a expressão completa inserida pelo usuário, ajudando a entender cada etapa do cálculo.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Interface Responsiva: O projeto foi desenvolvido com responsividade em mente, garantindo uma ótima experiência em dispositivos móveis e desktops.
 
-### `npm run build`
+Como Contribuir:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Você é mais que bem-vindo para contribuir com este projeto! Aqui estão algumas maneiras de se envolver:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Correções e Aprimoramentos: Se você encontrar algum problema ou tiver ideias para melhorias, fique à vontade para criar problemas (issues) ou enviar pull requests.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Adição de Recursos: Quer adicionar mais operações, como raiz quadrada ou potência? Sinta-se à vontade para estender as funcionalidades da calculadora.
 
-### `npm run eject`
+Estilo e Design: Se você é um entusiasta de design, pode aprimorar a aparência da calculadora, aplicando estilos, temas e animações.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Documentação: Contribua escrevendo documentação clara e concisa para ajudar outros desenvolvedores a entender e contribuir para o projeto.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Passos para Contribuir:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Fork: Faça um fork deste repositório para sua própria conta.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Clone: Clone o repositório forkado para sua máquina local.
 
-## Learn More
+Desenvolva: Faça suas alterações e melhorias.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Teste: Certifique-se de testar cuidadosamente suas alterações.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Envie: Envie um pull request para este repositório principal.
