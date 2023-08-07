@@ -39,3 +39,5 @@ Desenvolva: Faça suas alterações e melhorias.
 Teste: Certifique-se de testar cuidadosamente suas alterações.
 
 Envie: Envie um pull request para este repositório principal.
+
+![Calculadora](https://github.com/Gabsm02/project-calculator/assets/129795081/d81519eb-3179-4bd8-a4b6-ca4e9e238419)
